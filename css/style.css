@@ -5,6 +5,12 @@ body {
   padding: 0;
 }
 
+table {
+  background-color: #ffa040;
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
   text-align: center;
   color: #333;
