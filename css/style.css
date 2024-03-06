@@ -26,6 +26,7 @@ h1 {
 #planets td {
   padding: 10px;
   text-align: center;
+  border: 2px solid #6d6d6d;
 }
 
 #planets th {
