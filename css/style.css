@@ -14,7 +14,8 @@ h1 {
   width: 80%;
   margin: 20px auto;
   border-collapse: collapse;
-  border: 1px solid #ff5e5e;
+  border: 1px solid #ccc;
+  background-color: #ff2f2f;
 }
 
 #planets th,
