@@ -5,12 +5,6 @@ body {
   padding: 0;
 }
 
-table {
-  background-color: #ffa040;
-  margin: 0;
-  padding: 0;
-}
-
 h1 {
   text-align: center;
   color: #333;
@@ -20,7 +14,7 @@ h1 {
   width: 80%;
   margin: 20px auto;
   border-collapse: collapse;
-  border: 1px solid #ccc;
+  border: 1px solid #ff5e5e;
 }
 
 #planets th,
