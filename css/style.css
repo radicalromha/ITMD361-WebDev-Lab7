@@ -31,11 +31,11 @@ h1 {
 }
 
 #planets th {
-  background-color: #796b6b;
+  background-color: #d8c3c3;
 }
 
 #planets td {
-  background-color: #796b6b;
+  background-color: #d8c3c3;
 }
 
 #planets img {
@@ -49,7 +49,7 @@ h1 {
   margin: 0;
   font-size: 16px;
   color: #666;
-  background-color: #796b6b;
+  background-color: #d8c3c3;
 }
 
 #planets td:not(:first-child) {
@@ -57,9 +57,9 @@ h1 {
 }
 
 #planets tr:nth-child(even) {
-  background-color: #796b6b;
+  background-color: #d8c3c3;
 }
 
 #planets tr:hover {
-  background-color: #796b6b;
+  background-color: #d8c3c3;
 }
