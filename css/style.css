@@ -27,15 +27,15 @@ h1 {
   padding: 10px;
   text-align: center;
   border: 2px solid #716262;
-  background-color: #c1a7a7;
+  background-color: #796b6b;
 }
 
 #planets th {
-  background-color: #f2f2f2;
+  background-color: #796b6b;
 }
 
 #planets td {
-  background-color: #fff;
+  background-color: #796b6b;
 }
 
 #planets img {
@@ -49,6 +49,7 @@ h1 {
   margin: 0;
   font-size: 16px;
   color: #666;
+  background-color: #796b6b;
 }
 
 #planets td:not(:first-child) {
