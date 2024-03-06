@@ -18,7 +18,7 @@ h1 {
   width: 80%;
   margin: 20px auto;
   border-collapse: collapse;
-  border: 1px solid #ccc;
+  border: 2px solid #716262;
   background-color: #ff2f2f;
 }
 
@@ -26,7 +26,7 @@ h1 {
 #planets td {
   padding: 10px;
   text-align: center;
-  border: 2px solid #6d6d6d;
+  border: 2px solid #716262;
   background-color: #c1a7a7;
 }
 
