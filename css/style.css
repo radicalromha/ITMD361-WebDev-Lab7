@@ -6,7 +6,7 @@ body {
 }
 
 table {
-  background-color: rgb(130, 120, 120);
+  background-color: #d8c3c3;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
   padding: 10px;
   text-align: center;
   border: 2px solid #716262;
-  background-color: #796b6b;
+  background-color: #d8c3c3;
 }
 
 #planets th {
