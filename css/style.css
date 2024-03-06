@@ -5,6 +5,10 @@ body {
   padding: 0;
 }
 
+table {
+  background-color: rgb(255, 31, 31);
+}
+
 h1 {
   text-align: center;
   color: #333;
