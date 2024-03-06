@@ -6,7 +6,7 @@ body {
 }
 
 table {
-  background-color: #d8c3c3;
+  background-color: #ffffff;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
   width: 80%;
   margin: 20px auto;
   border-collapse: collapse;
-  border: 2px solid #716262;
+  border: 4px solid #716262;
   background-color: #ff2f2f;
 }
 
@@ -26,16 +26,15 @@ h1 {
 #planets td {
   padding: 10px;
   text-align: center;
-  border: 2px solid #716262;
-  background-color: #d8c3c3;
+  border: 4px solid #716262;
 }
 
 #planets th {
-  background-color: #d8c3c3;
+  background-color: #ffffff;
 }
 
 #planets td {
-  background-color: #d8c3c3;
+  background-color: #ffffff;
 }
 
 #planets img {
@@ -49,7 +48,7 @@ h1 {
   margin: 0;
   font-size: 16px;
   color: #000000;
-  background-color: #d8c3c3;
+  background-color: #ffffff;
 }
 
 #planets td:not(:first-child) {
@@ -57,9 +56,9 @@ h1 {
 }
 
 #planets tr:nth-child(even) {
-  background-color: #d8c3c3;
+  background-color: #ffffff;
 }
 
 #planets tr:hover {
-  background-color: #d8c3c3;
+  background-color: #ffffff;
 }
